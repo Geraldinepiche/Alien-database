@@ -3,8 +3,8 @@ const express = require (path.join(__dirname,"src", "express"));
 const bodyParser = require(path.join(__dirname, "src", "body-parser"));
 const mongoose = require(path.join(__dirname, "src", "mongoose"));
 const exphbs = require(path.join(__dirname,"src","express-handlebars"));
-const app = express;
-const Shema = mongoose.Shema;
+const app = express();
+const Schema = mongoose.Schema;
 
 const UserSchema = new Schema({
     name: String,
@@ -18,7 +18,7 @@ const port = 3000;
 //setup mangoose or whatever
 mongoose.connect("mongodb://localhost/my_database", {
     useNewURLParser: true,
-    useUnifiedParser: true,
+    useUnifiedTopology: true,
 });
 
 //setup body parser and shit
@@ -33,12 +33,7 @@ app.set("view engine", "handlebars");
 app.get("/",(req, res) => {
     res.render("home")});
     
-//fetch data from the database
-const UserSchema = new Schema({
-    name: String,
-    age: Number,
-    email: String
-});
+
 
 const User = mongoose.model("User", UserSchema);
 
