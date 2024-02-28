@@ -16,10 +16,10 @@ const User = mongoose.model("User", UserSchema);
 const port = 3000;
 
 //setup mangoose or whatever
-mongoose.connect("mongodb://localhost/my_database", {
+/*mongoose.connect("mongodb://localhost/my_database", {
     useNewURLParser: true,
     useUnifiedTopology: true,
-});
+});*/
 
 //setup body parser and shit
 app.use(bodyParser.urlencoded({ extended: false}));
