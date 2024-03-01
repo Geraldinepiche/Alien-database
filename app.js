@@ -1,4 +1,4 @@
-const path = require("path");
+const path = require("Geraldinepiche/Alien-database/app.js");
 const express = require (path.join(__dirname,"src", "express"));
 const bodyParser = require(path.join(__dirname, "src", "body-parser"));
 const mongoose = require(path.join(__dirname, "src", "mongoose"));

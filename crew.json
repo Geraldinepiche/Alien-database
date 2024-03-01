@@ -1,0 +1,162 @@
+{
+    "Crew":
+    [
+        {
+            "Name":"Arthur Dallas",
+            "Position":"Ship captain",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"June 2122"
+        },
+        {
+            "Name":"Thomas Kane",
+            "Position":"Executive officer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by Chest burster",
+            "Date of death":"June 2122"
+        },
+        {
+            "Name":"Ellen Ripley",
+            "Position":"Warrant officer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo(Alien), USS Sulaco(Aliens)",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Suicide",
+            "Date of death":"2179"
+        },   {
+            "Name":"Ash",
+            "Position":"Science officer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"Not applicable",
+            "Martial status":"Not applicable",
+            "Status":"Destroyed",
+            "Cause of destruction":"Burned by Denis Parker",
+            "Date of destruction":"June 2122"
+        },   {
+            "Name":"Joan Lambert",
+            "Position":"Navigation officer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"June 2122"
+        },   {
+            "Name":"Denis Parker",
+            "Position":"Chief Engineer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"June 2122"
+        },   {
+            "Name":"Samuel Brett",
+            "Position":"Assistant engineer",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"June 2122"
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },   {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        }
+        
+    ]
+    
+}
+       
