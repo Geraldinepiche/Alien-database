@@ -237,44 +237,104 @@
             "Serial number":"A71/TQ9.0.09428E1"
         }, 
         {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
+            "Name":"William Hudson",
+            "Position":"Private first class",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"May 17 2149",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death": "July 27 2179",
+            "Serial number":"A08/TQ1.0.41776E3"
         },
+        {
+            "Name":"Dwayne Hicks",
+            "Position":"Corporal",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2151",
+            "Martial status":"Widowed",
+            "Status":"Deceased",
+            "Cause of death":"killed by failing cryochamber",
+            "Date of death":"August 8 2179",
+            "Serial number":"A27/TQ4.0.48215E9"
+        },     
+        {
+            "Name":"Daniel Spunkmeyer",
+            "Position":"Private first class",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2152",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"July 27 2179",
+            "Serial number":"A23/TQ6.0.92810E7"
+        },
+        {
+            "Name":"Jenette Vasquez",
+            "Position":"Private first class",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2153",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed in explosion",
+            "Date of death":"July 27 2179",
+            "Serial number":"A03/TQ7.0.15618E4"
+        },
+        {
+            "Name":"Tim Crowe",
+            "Position":"Private",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth": "2151",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed in explosion",
+            "Date of death":"July 27 2179",
+            "Serial number":"A46/TQ1.0.98712E6"
+        },
+        {
+            "Name":"Mark Drake",
+            "Position":"Private",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth": "2145",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Fatal exposure to acid",
+            "Date of death":"July 27 2179",
+            "Serial number":"A23/TQ2.0.47619E7"
+        },
+        {
+            "Name":"Ricco Frost",
+            "Position":"Private",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth": "2153",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"fatal injuries sustained from a fall",
+            "Date of death":"July 27 2179",
+            "Serial number":"A17/TQ4.0.61247E5"
+        },
+        {
+            "Name":"Trevor Wierzbowksi",
+            "Position":"Private",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth": "2147",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"July 27 2179",
+            "Serial number":"A14/TQ8.0.20034E7"
+            
 
-        
+        }
+                   
     ]
     
 }
