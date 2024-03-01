@@ -29,7 +29,7 @@
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo(Alien), USS Sulaco(Aliens)",
             "Date of birth":"January 7 2092",
-            "Martial status":"Unknown",
+            "Martial status":"Widowed",
             "Status":"Deceased",
             "Cause of death":"Suicide",
             "Date of death":"August 11 2179"
@@ -102,16 +102,6 @@
             "Status":"Unknown"
         },  
         {
-            "Name":"Nina Taylor",
-            "Position":"Executive administrator",
-            "Employer":"Weyland-Yutani",
-            "Assigned ship":"The Torrents",
-            "Date of birth":"Unknown",
-            "Martial status":"Unknown",
-            "Status":"Deceased",
-            "Cause of death":"burned to death in the explosion of the Anisedora ship",
-            "Date of death":"December 11 2037"
-        },   {
             "Name":"Henry Marlow",
             "Position":"Ship captain",
             "Employer":"Self Employed",

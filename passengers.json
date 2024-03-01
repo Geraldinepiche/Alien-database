@@ -1,0 +1,72 @@
+{
+    "Passengers":
+    [
+        {
+            "Name":"Rebecca Jorden",
+            "Employed":"Not applicable",
+            "Position":"Not applicable",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"march 5 2173",
+            "Martial status":"Not Applicable",
+            "Status":"Deceased",
+            "Cause of death":"Cryochamber malfunction",
+            "Date of death":"August 8 2179"
+        },
+        {
+            "Name":"Ellen Ripley",
+            "Employed":"Yes",
+            "Position":"Consultant",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"January 7 2092",
+            "Martial status":"Widowed",
+            "Status":"Deceased",
+            "Cause of death":"Suicide",
+            "Date of death":"August 11 2179"
+        },
+        {
+            "Name":"Carter Burke",
+            "Employed":"Yes",
+            "Position":"Special project director",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2150",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"July 27 2179"
+        },
+        {
+            "Name":"Nina Taylor",
+            "Employed":"Yes",
+            "Position":"Executive administrator",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed in explosion",
+            "Date of death":"December 11 2137"
+        },
+        {
+            "Name":"Amanda Ripley-Mc-Claren",
+            "Employed":"Yes",
+            "Position":"Consultant",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"2112",
+            "Martial status":"Married",
+            "Status":"Deceased",
+            "Cause of death":"Cancer",
+            "Date of death":"December 23 2178"
+        },
+        {
+            "Name":"Christopher Samuels",
+            "Employed":"Yes",
+            "Position":"Unknown",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"Not Applicable",
+            "Martial status":"Not Applicable",
+            "Status":"Destroyed",
+            "Cause of death":"Terminally damaged by APOLO's defense system",
+            "Date of destruction":"December 11 2137"
+        }
+
+    ]
+}
