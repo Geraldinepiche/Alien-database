@@ -6,7 +6,7 @@
             "Position":"Ship captain",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo",
-            "Date of birth":"",
+            "Date of birth":"February 27 2075",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Killed by fully grown Xenomorph",
@@ -17,7 +17,7 @@
             "Position":"Executive officer",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo",
-            "Date of birth":"",
+            "Date of birth":"April 20 2080",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Killed by Chest burster",
@@ -28,11 +28,11 @@
             "Position":"Warrant officer",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo(Alien), USS Sulaco(Aliens)",
-            "Date of birth":"",
+            "Date of birth":"January 7 2092",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Suicide",
-            "Date of death":"2179"
+            "Date of death":"August 11 2179"
         },   {
             "Name":"Ash",
             "Position":"Science officer",
@@ -48,7 +48,7 @@
             "Position":"Navigation officer",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo",
-            "Date of birth":"",
+            "Date of birth":"November 7 2093",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Killed by fully grown Xenomorph",
@@ -58,7 +58,7 @@
             "Position":"Chief Engineer",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo",
-            "Date of birth":"",
+            "Date of birth":"February 4 2080",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Killed by fully grown Xenomorph",
@@ -68,30 +68,105 @@
             "Position":"Assistant engineer",
             "Employer":"Weyland-Yutani",
             "Assigned ship":"Nostromo",
-            "Date of birth":"",
+            "Date of birth":"July 13 2069",
             "Martial status":"Unknown",
             "Status":"Deceased",
             "Cause of death":"Killed by fully grown Xenomorph",
             "Date of death":"June 2122"
         },   {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
+            "Name":"Jones",
+            "Position":"Ship cat",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"Nostromo",
+            "Date of birth":"Unknown",
+            "Martial status":"Not applicable",
+            "Status":"Deceased",
+            "Cause of death":"Natural causes",
+            "Date of death":"Unknown"
         },   {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
+            "Name":"Diane Verlaine",
+            "Position":"Ship Captain",
+            "Employer":"Self Employed",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Unknown"
+        },   
+        {
+            "Name":"William Connor",
+            "Position":"Pilot",
+            "Employer":"Diane Verlaine",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Unknown"
+        },  
+        {
+            "Name":"Nina Taylor",
+            "Position":"Executive administrator",
+            "Employer":"Weyland-Yutani",
+            "Assigned ship":"The Torrents",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"burned to death in the explosion of the Anisedora ship",
+            "Date of death":"December 11 2037"
         },   {
+            "Name":"Henry Marlow",
+            "Position":"Ship captain",
+            "Employer":"Self Employed",
+            "Assigned ship":"Anisedora",
+            "Date of birth":"Unknown",
+            "Martial status":"Married",
+            "Status":"Deceased",
+            "Cause of death":"Killed in self-defense by Nina Taylor",
+            "Date of death":"December 11 2037"
+        },  
+        {
+            "Name":"Catherine Foster",
+            "Position":"First Mate",
+            "Employer":"Henry Marlow",
+            "Assigned ship":"Anesidora",
+            "Date of birth":"Unknown",
+            "Martial status":"Married",
+            "Status":"Deceased",
+            "Cause of death":"Killed by Chest burster",
+            "Date of death":"November 14 2037"
+        },   
+        {
+            "Name":"Crispin Heyst",
+            "Position":"Ship carpenter",
+            "Employer":"Henry Marlow",
+            "Assigned ship":"Anesidora",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"November 2037"
+        },  
+        {
+            "Name":"Dean Lewis",
+            "Position":"Engineering technician",
+            "Employer":"Henry Marlow",
+            "Assigned ship":"Anesidora",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"November 2037"
+        },   
+        {
+            "Name":"Alan Meeks",
+            "Position":"Engineering technician",
+            "Employer":"Henry Marlow",
+            "Assigned ship":"Anesidora",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"November 2037"
+        },
+        {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -100,7 +175,8 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },
+        {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -109,7 +185,8 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },
+        {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -118,7 +195,7 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },     {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -127,7 +204,7 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },     {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -136,7 +213,7 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },     {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -145,7 +222,7 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        },   {
+        },     {
             "Name":"",
             "Position":"",
             "Employer":"",
@@ -154,7 +231,35 @@
             "Martial status":"",
             "Status":"",
             "Cause of death":""
-        }
+        },     {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },     {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },     {
+            "Name":"",
+            "Position":"",
+            "Employer":"",
+            "Assigned ship":"",
+            "Date of birth":"",
+            "Martial status":"",
+            "Status":"",
+            "Cause of death":""
+        },
+
         
     ]
     
