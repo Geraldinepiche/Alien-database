@@ -167,62 +167,76 @@
             "Date of death":"November 2037"
         },
         {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
+            "Name":"Barton H Susman",
+            "Position":"Colonel ",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"Unknown",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"Unknown"
         },
         {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
+            "Name":"Scott Gorman",
+            "Position":"Lieutenant squadron commander",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2142",
+            "Martial status":"Uknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed in explosion",
+            "Date of death":"July 27 2179",
+            "Serial number":"A09/TQ4.0.56124E3"
         },
         {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
-            "Name":"",
-            "Position":"",
-            "Employer":"",
-            "Assigned ship":"",
-            "Date of birth":"",
-            "Martial status":"",
-            "Status":"",
-            "Cause of death":""
-        },     {
+            "Name":"Lance Bishop",
+            "Position":"Executive officer",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"Not applicable",
+            "Martial status":"Not applicable",
+            "Status":"Deactivated",
+            "Date of deactivation":"August 2179",
+            "Serial number":"A17/TQ2.0.35117E2"
+        }, 
+        {
+            "Name":"Al Apone",
+            "Position":"Gunnery Sergeant",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2137",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"July 27 2179",
+            "Serial number":"A19/TQ4.0.32751E8"
+        },    
+        {
+            "Name":"Cynthia Dietritch",
+            "Position":"Corporal",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2154",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Unknown",
+            "Date of death":"July 27 2179",
+            "Serial number":"A41/TQ8.0.81120E2"
+        }, 
+       {
+            "Name":"Colette Ferro",
+            "Position":"Corporal",
+            "Employer":"United States Colonial Marine Corp",
+            "Assigned ship":"USS Sulaco",
+            "Date of birth":"2140",
+            "Martial status":"Unknown",
+            "Status":"Deceased",
+            "Cause of death":"Killed by fully grown Xenomorph",
+            "Date of death":"July 27 2179",
+            "Serial number":"A71/TQ9.0.09428E1"
+        }, 
+        {
             "Name":"",
             "Position":"",
             "Employer":"",
