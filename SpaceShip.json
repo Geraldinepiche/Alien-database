@@ -1,0 +1,51 @@
+{
+    "space ships":
+    
+    [    
+    {
+        "space ship name":"USCSS Anesidora",
+        "space ship years in service":"2095-2105AD",
+        "ship captain": "Henry Marlow",
+        "ownership type":"private",
+        "ship owner":"Henry Marlow",
+        "ship status":"Destroyed by Captain Henry Marlow",
+        "passengers":"none",
+        "cargo":"Nostromo flight recorder",
+        "crew names":"Henry Marlow, Catherine Foster, Crispin Heyst, Alan Meeks, Dean Lewis"
+         
+    },
+    {
+        "space ship name":"Nostromo", 
+        "space ship years in service":"2101-2122AD",
+        "ship captain":"Arthur Dallas",
+        "ownership type":"corporate",
+        "ship owner":"Weyland-Yutani",
+        "ship status":"Destroyed by Warrant officer Ellen Ripley",
+        "passengers":"Jones",
+        "cargo":"Ore, [CLASSIFIED]",
+        "crew names":"Arthur Dallas, Ellen Ripley, Thomas Kane, Ash, Joan Lambert, Denis Parker, Samuel Brett"
+    },
+    {
+        "space ship name":"The Torrents",
+        "space ship years in service":"unknown-2137AD",
+        "ship captain":"Diane Verlaine",
+        "ship owner":"Diane Verlaine",
+        "ownership type":"private",
+        "ship status":"Unknown. Possibly destroyed",
+        "passengers":"Amanda Ripley, Christopher Samuels, Nina Taylor",
+        "cargo":"unknown",
+        "crew names" : "Diane Verlaine, William Connor"
+    },
+    {
+        "space ship name":"USS Sulaco",
+        "space ship years in service":"2169-2179AD",
+        "ship captain":"Barton H Susman",
+        "ship owner":"United states colonial marine corp",
+        "ownership type":"military",
+        "ship status":"crashed-landed on planet Fury-161",
+        "passengers":"Carter Burke, Ellen Ripley, Rebecca Jorden",
+        "cargo":"military supplies for rescue mission",
+        "crew names":"Barton H. Susman, Scott Gorman, Lance Bishop, Al Apone, Cynthia Dietrich, Colette Ferro, Dwayne Hicks, William Hudson, Daniel Spunkmeyer, Jenette Vasquez, Tim Crowe, Mark Drake, Ricco Frost, Trevor Wierzbowski"
+    }
+    ]
+}
