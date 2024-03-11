@@ -1,8 +1,11 @@
-const path = require("/app.js");
+//const path = require("/app.js");
+require(Geraldinepiche/Alien-database/app.js);
 const express = require (path.join("express"));
 const bodyParser = require(path.join("body-parser"));
 const mongoose = require(path.join("mongoose"));
 const { engine } = require(path.join("express-handlebars"));
+
+
 
 const app = express();
 const Schema = mongoose.Schema;
